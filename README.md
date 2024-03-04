@@ -1,1 +1,1 @@
-# Nginx-App-Deploy-on-Local-Kubernetes-Cluster-KinD-with-ArgoCD
+# Nginx-App-Deploy-on-Local-Kubernetes-Cluster-with-ArgoCD
